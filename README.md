@@ -1,8 +1,8 @@
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" />
 
 <h1 align="center">Hi 👋, I'm Vimal karthik H</h1>
 <h3 align="center">A passionate Full stack developer ( MERN ) and Tester from Tamilnadu, India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlrNzI0Z3N4ZTljbDliaDBwOGl4dW50M3I2d3NhdTc5eDR6eHBsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalkarthikh&label=Profile%20views&color=0e75b6&style=flat" alt="vimalkarthikh" /> </p>
 
