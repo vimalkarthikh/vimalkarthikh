@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development ( MERN )**
 
-- 👨‍💻 All of my projects are available at [VimalKarthik](https://vimalkarthik.netlify.app/)
+- 👨‍💻 All of my projects are available at [VimalKarthik](https://vimalkarthik-vk.netlify.app/)
 
 - 💬 Ask me about **Java, Automation Testing, Ux Designing and MERN**
 
